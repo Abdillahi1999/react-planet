@@ -1,4 +1,4 @@
-# react-planet
+# React-planet
 
 [![Version](https://img.shields.io/npm/v/react-planet.svg)](https://www.npmjs.com/package/react-planet)
 [![Downloads](https://img.shields.io/npm/dt/react-planet.svg)](https://www.npmjs.com/package/react-planet)
